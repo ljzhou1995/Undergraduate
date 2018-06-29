@@ -1,7 +1,12 @@
+#!/usr/bin/env python
+# -*- coding: UTF-8 -*-
+
 # python3.6
+# windows7 & pycharm
+
 # author: ljzhou
+
 # target: http://stock.jrj.com.cn
-# coding: utf-8
 
 import codecs
 from urllib import request, parse
